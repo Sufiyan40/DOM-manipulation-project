@@ -12,7 +12,7 @@ This project demonstrates how to dynamically change CSS properties using JavaScr
 
 ## How to View the Project
 
-To view the project, simply open the index.html file in your browser. Alternatively, you can view the live version of the project hosted [here]
+To view the project, simply open the index.html file in your browser. Alternatively, you can view the live version of the project hosted [here](https://dom-manupulation-project.netlify.app/)
 
 ## Learning Outcome
 
